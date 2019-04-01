@@ -1,0 +1,30 @@
+﻿a1
+void main ( ) {
+	float floatName = 0.01;
+	double ListName = [ ] ;
+	char charName ;
+	do
+		floatName + 0.5  
+	while ( floatName <= 20 ) ;
+	int doublename = 20 ;
+	for ( sum = 0 ; doublename > 1 ; doublename -= 1 )
+	{
+		switch( scanf ( " % c " , & charName ) )
+			case ( charName != NULL ) :
+				if ( && || ) ;
+	}
+/*
+this is the comments$$
+*/
+		if ( sum > 100 )
+		{
+	  	  ~~
+			break ;
+		}
+		else
+		{
+	 	   @@
+			sum += doublename ;
+		}
+	}
+}
